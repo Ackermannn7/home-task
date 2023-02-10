@@ -1,0 +1,26 @@
+p {
+  font-size: 20px;
+}
+.wrapper {
+  display: flex;
+  height: 100vh;
+
+}
+.quotes {
+  width: 33%;
+}
+.biography {
+  display: flex;
+  width: 33%;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+
+a{
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
